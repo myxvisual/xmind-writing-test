@@ -225,6 +225,8 @@ italicBoldText.render(); // Output: Rendering italic text, Rendering bold text, 
 
 ## 5. What computer languages do you master? What're the pros and cons of each of them?
 
+Answer:
+
 I am proficient in JavaScript and TypeScript, and I also know some other programming languages such as Python, Golang, and C++. I believe each language has significant advantages in its respective development domain, with large user and community bases.
 
 For example, TypeScript excels with its type checking and excellent support for large-scale projects, which enhances maintainability. However, it requires additional compilation steps and specific tooling like ts-lint and ts-node.
@@ -232,6 +234,8 @@ For example, TypeScript excels with its type checking and excellent support for 
 On the other hand, C++ is a great programming language known for its high performance, cross-platform capability, and rich history. Its downsides include complexity, high learning curve, and lack of unified package management solutions.
 
 ## 6. Explain the differences between mutable and immutable objects.
+
+Answer:
 
 Immutable objects are objects whose state cannot be changed once created. Mutable objects are objects that can be modified after creation.
 Immutable objects are generally used in performance-critical scenarios, such as in rich text editors like Slate.js. They provide better stability for data management.
@@ -307,7 +311,7 @@ console.log(immutableObject.fontSize); // Output: 12
 console.log(immutableObject.content); // Output: 'hello'
 ```
 
-7. Use JavaScript to implement the 'reactive' and 'computed' functions so that the following code works as expected.
+## 7. Use JavaScript to implement the 'reactive' and 'computed' functions so that the following code works as expected.
 
 
 const node = reactive({ leftChildren: 1,
@@ -369,9 +373,10 @@ node.rightChildren = 2
 console.log(children.value) // 12
 ```
 
-8. Given a number of rectangles defined by their width, height, and location (x, y) of their top-left corners, how can we insert a new rectangle(with a fixed size) as close as possible to a desired target location, without making it intersect with any existing rectangles?
+## 8. Given a number of rectangles defined by their width, height, and location (x, y) of their top-left corners, how can we insert a new rectangle(with a fixed size) as close as possible to a desired target location, without making it intersect with any existing rectangles?
 
 Answer:
+
 ```ts
 // TODO
 ```
