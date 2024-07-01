@@ -1,7 +1,8 @@
 # XMind Writing Test
 
-Name 谢运明
-Date 2024-07-01
+Name: 谢运明
+
+Date: 2024-07-01
 
 ## 1. What's the time complexity of the following code, and why?
 
@@ -375,7 +376,7 @@ node.rightChildren = 2
 console.log(children.value) // 12
 ```
 
-## 8. Given a number of rectangles defined by their width, height, and location (x, y) of their top-left corners, how can we insert a new rectangle(with a fixed size) as close as possible to a desired target location, without making it intersect with any existing rectangles?
+## 8. Given a number of rectangles defined by their width, height, and location (x, y) of their top-left corners, how can we insert a new rectangle(with a fixed size) as close as possible to a desired target location, without making it intersect with any existing rectangles? use Quadtree and js, quadtree need to implantation by yourself.
 
 Answer:
 

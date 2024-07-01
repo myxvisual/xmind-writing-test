@@ -1,0 +1,23 @@
+{
+  "name": "xmind-writing-test",
+  "version": "1.0.0",
+  "description": "Name: 谢运明",
+  "main": "rectangle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myxvisual/xmind-writing-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myxvisual/xmind-writing-test/issues"
+  },
+  "homepage": "https://github.com/myxvisual/xmind-writing-test#readme",
+  "dependencies": {
+    "canvas": "^3.0.0-rc2"
+  }
+}
