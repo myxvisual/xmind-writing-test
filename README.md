@@ -314,7 +314,7 @@ console.log(immutableObject.content); // Output: 'hello'
 
 ## 7. Use JavaScript to implement the 'reactive' and 'computed' functions so that the following code works as expected.
 
-
+```js
 const node = reactive({ leftChildren: 1,
 // rightChildren: 0
 })
@@ -323,6 +323,7 @@ const children = computed(() => node.leftChildren + (parseInt(node.rightChildren
 console.log(children.value) // 1
 node.leftChildren = 10 console.log(children.value) // 10
 node.rightChildren = 2 console.log(children.value) // 12
+```
 
 Answer:
 
