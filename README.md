@@ -379,7 +379,5 @@ console.log(children.value) // 12
 ## 8. Given a number of rectangles defined by their width, height, and location (x, y) of their top-left corners, how can we insert a new rectangle(with a fixed size) as close as possible to a desired target location, without making it intersect with any existing rectangles? use Quadtree and js, quadtree need to implantation by yourself.
 
 Answer:
-
-```ts
-// TODO
-```
+[insertRectangle.js](insertRectangle.js)
+[insertRectangle-quaadtree.js](insertRectangle-quadtree.js)
