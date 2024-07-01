@@ -46,6 +46,7 @@ GB18030: Extended and modernized Chinese character encoding standard supporting 
 ## 3. What are the mobile and desktop operating systems you use everyday? What applications do you use frequently? Can you name a few of them and tell how they can be improved or have bugs fixed?
 
 Answer:
+
 The operating systems I commonly use are macOS, Ubuntu, and Windows 11, with macOS and Ubuntu being the ones I use the most. I use them almost every day. Some of the frequently used software includes VS Code, Chrome, WeChat, draw.io, Figma, and others.
 
 With tools like Figma and draw.io that I use, which are professional design software, is it possible to combine them now with the rise of artificial intelligence to reduce complexity and usage difficulties for non-professionals?
